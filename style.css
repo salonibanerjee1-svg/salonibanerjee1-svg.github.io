@@ -1,13 +1,30 @@
 body {
 background-color: powderblue;
-font-family: Arial, sans-serif;
+font-family: "Trebuchet MS", sans-serif;
+width: 80%;
+margin: auto;
 }
 
 h1 {
-font-family: Georgia, serif;
+font-family: "Trebuchet MS", sans-serif;
+text-align: center;
+}
+
+h2 {
+font-family: "Trebuchet MS", sans-serif;
+}
+
+div {
+background-color: white;
+padding: 20px;
+margin: 20px;
 }
 
 img {
 width: 175px;
 height: auto;
+}
+
+a {
+color: darkblue;
 }
